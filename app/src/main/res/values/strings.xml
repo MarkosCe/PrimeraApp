@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="txt_datos">Datos</string>
+    <string name="txt_boton">Registrar</string>
+</resources>

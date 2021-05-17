@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stDeptos">
+        <item>Sistemas</item>
+        <item>Industrial</item>
+        <item>Gestion</item>
+        <item>Quimica</item>
+        <item>Civil</item>
+        <item>Administracion</item>
+    </string-array>
+</resources>
